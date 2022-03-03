@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Kizer Solutions
 
-You can use the [editor on GitHub](https://github.com/jkizersolutions/jkizersolutions.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Building robust, reliable, and trusted data solutions since 2018, Kizer Solutions offers expertise in the following areas:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Analytics Engineering
+- Data Engineering
+- Data Science Consulting
 
-### Markdown
+With deep experience in technology, healthcare, environmental impact, and telecommunications, Kizer Solutions enables businesses to make informed, insightful decisions.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jkizersolutions/jkizersolutions.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Contact [Jonathan Kizer](https://jonathankizer.com) with inquiries.
