@@ -13,4 +13,4 @@ With deep experience in technology, healthcare, environmental impact, and teleco
 ### Contact [Jonathan Kizer](https://jonathankizer.com) with inquiries.
 
 
-Copyright © 2022 by Kizer Solutions LLC
+Copyright © 2025 by Kizer Solutions LLC
